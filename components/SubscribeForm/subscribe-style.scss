@@ -1,0 +1,88 @@
+.root {
+  position: relative;
+  text-align: center;
+  p {
+    color: $palette-common-white
+  }
+}
+.subscribe-title {
+  position: relative;
+  margin: spacing(0, 3, 8);
+  padding-top: $spacing7;
+  .theme--dark & {
+    color: $palette-common-white;
+  }
+  .theme--light & {
+    color:$palette-primary-main;
+  }
+  strong {
+    font-weight: $font-bold
+  }
+}
+.form {
+  position: relative;
+  margin-top: $spacing2
+}
+
+.mail-button {
+  height: 80px !important;
+  padding: 20px 0px !important;
+  margin:2%;
+  border-radius:50px;
+  justify-content: center;
+  a {
+    display:flex;
+    justify-content: center;
+
+  p {
+align-self: center;
+color:white;
+text-decoration: none;
+margin:0 10px !important;
+    font-weight: var(--font-medium);
+    padding: 8px 16px 8px 0px;
+    font-size: 18px;
+    line-height: 1.5;
+    margin-bottom: 0;
+  }
+}
+}
+.field {
+  ::v-deep &.v-text-field--solo > .v-input__control > .v-input__slot {
+    color: #fff;
+    width: 100%;
+    @include padding-right(240px);
+        background-color: $palette-secondary-main;
+    box-shadow: 0 10px 15px -5px rgba(62, 57, 107, .07);
+    border-radius: 10px;
+    input::-webkit-input-placeholder { /* Chrome/Opera/Safari */
+      color: rgba(255,255,255,0.5)
+    }
+    input::-moz-placeholder { /* Firefox 19+ */
+      color: rgba(255,255,255,0.5)
+    }
+    input:-ms-input-placeholder { /* IE 10+ */
+      color: rgba(255,255,255,0.5)
+    }
+    input:-moz-placeholder { /* Firefox 18- */
+      color: rgba(255,255,255,0.5)
+    }
+  }
+}
+
+.button {
+  position: absolute;
+  @include right($spacing1);
+  top: $spacing1;
+  @include breakpoints-down(sm) {
+    padding: spacing(0.5, 3);
+    min-width: 0;
+    width:auto;
+  }
+  @include breakpoints-down(xs) {
+    padding: spacing(0.5, 1)
+  }
+  svg {
+    fill: $palette-common-white
+  }
+}

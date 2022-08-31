@@ -1,0 +1,34 @@
+ul {
+  padding:0;
+}
+ul li {
+}
+
+.box-number .text {
+  border-left: 1px solid #e60065;
+  margin-left:80px;
+  padding-left:25px;
+}
+
+#ibz-agenda{
+margin-left:14%;
+}
+
+@media only screen and (max-width: 767px) {
+  #ibz-agenda{
+  margin-left:unset;
+  }
+
+  .box-number .text {
+    border-left: 1px solid #e60065;
+    margin-left:10px;
+    padding-left:25px;
+  }
+  #conference-video {
+    width:300px !important;
+    height:250px !important;
+  }
+  #conference-images img{
+    width:300px !important;
+    padding:10px 10px !important;
+  }

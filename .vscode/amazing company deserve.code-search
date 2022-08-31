@@ -1,0 +1,12 @@
+# Query: amazing company deserve
+
+3 results - 3 files
+
+.nuxt/dist/server/server.js:
+  698:         "banner_title": "Amazing company deserve",
+
+.nuxt/dist/server/server.js.map:
+  1: ⟪ 40901 characters skipped ⟫ \"header_testimonials\": \"testimonials\",\n        \"header_pricing\": \"pricing and plan\",\n        \"header_faq\": \"faq\",\n        \"header_contact\": \"contact\",\n        \"banner_title\": \"Amazing company deserve\",\n        \"banner_titlestrong\": \"amazing software\",\n        \"banner_subtitle\": \"Millions of happy users work better with our integrated Apps.\",\n        \"banner_watchvideo\": \"Watch Video\",\n        \"getstarted\": \"Get Started\",\n        \"counter_month\": \"Month\",\n        \"counter_free\": \"Free Trial\",\n        \"counter_users\": \"Active Users\",\n        \"counter_providers\": \"Providers\",\n        \"feature_title1\": \"Act on it-all\",\n        \"feature_titlestrong1\": \"in one dashboard\",\n        \"feature_desc1\": \"Our audience dashboard shows you pre-built segments like top locations, recent sources of growth, and even customer lifetime value (CLV).\",\n        \"see_detail\": \"See Detail\",\n        \"feature_title2\": \"Everything you need is a\",\n        \"feature_titlestrong2\": \"unique value proposition\",\n        \"feature_desc2\": \"With strong technical foundations, has allowed us to leverage business experts to bu
+
+static/lang/en-US.js:
+  63:         "banner_title": "The utility token",

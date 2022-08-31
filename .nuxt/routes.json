@@ -1,0 +1,86 @@
+[
+  {
+    "name": "blank-page___en",
+    "path": "/blank-page",
+    "component": "D:\\\\laragon\\\\www\\\\ibiza-web3\\\\pages\\\\blank-page.vue",
+    "chunkName": "pages/blank-page",
+    "_name": "_18e3c80e"
+  },
+  {
+    "name": "contact___en",
+    "path": "/contact",
+    "component": "D:\\\\laragon\\\\www\\\\ibiza-web3\\\\pages\\\\contact.vue",
+    "chunkName": "pages/contact",
+    "_name": "_2e244f6a"
+  },
+  {
+    "name": "index___es",
+    "path": "/es",
+    "component": "D:\\\\laragon\\\\www\\\\ibiza-web3\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_5f3da0c8"
+  },
+  {
+    "name": "login___en",
+    "path": "/login",
+    "component": "D:\\\\laragon\\\\www\\\\ibiza-web3\\\\pages\\\\login.vue",
+    "chunkName": "pages/login",
+    "_name": "_cbee5a9a"
+  },
+  {
+    "name": "Privacy-terms___en",
+    "path": "/Privacy-terms",
+    "component": "D:\\\\laragon\\\\www\\\\ibiza-web3\\\\pages\\\\Privacy-terms.vue",
+    "chunkName": "pages/Privacy-terms",
+    "_name": "_5efd17ac"
+  },
+  {
+    "name": "register___en",
+    "path": "/register",
+    "component": "D:\\\\laragon\\\\www\\\\ibiza-web3\\\\pages\\\\register.vue",
+    "chunkName": "pages/register",
+    "_name": "_31df356e"
+  },
+  {
+    "name": "blank-page___es",
+    "path": "/es/blank-page",
+    "component": "D:\\\\laragon\\\\www\\\\ibiza-web3\\\\pages\\\\blank-page.vue",
+    "chunkName": "pages/blank-page",
+    "_name": "_18e3c80e"
+  },
+  {
+    "name": "contact___es",
+    "path": "/es/contact",
+    "component": "D:\\\\laragon\\\\www\\\\ibiza-web3\\\\pages\\\\contact.vue",
+    "chunkName": "pages/contact",
+    "_name": "_2e244f6a"
+  },
+  {
+    "name": "login___es",
+    "path": "/es/login",
+    "component": "D:\\\\laragon\\\\www\\\\ibiza-web3\\\\pages\\\\login.vue",
+    "chunkName": "pages/login",
+    "_name": "_cbee5a9a"
+  },
+  {
+    "name": "Privacy-terms___es",
+    "path": "/es/Privacy-terms",
+    "component": "D:\\\\laragon\\\\www\\\\ibiza-web3\\\\pages\\\\Privacy-terms.vue",
+    "chunkName": "pages/Privacy-terms",
+    "_name": "_5efd17ac"
+  },
+  {
+    "name": "register___es",
+    "path": "/es/register",
+    "component": "D:\\\\laragon\\\\www\\\\ibiza-web3\\\\pages\\\\register.vue",
+    "chunkName": "pages/register",
+    "_name": "_31df356e"
+  },
+  {
+    "name": "index___en",
+    "path": "/",
+    "component": "D:\\\\laragon\\\\www\\\\ibiza-web3\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_5f3da0c8"
+  }
+]
